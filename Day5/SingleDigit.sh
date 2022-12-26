@@ -1,2 +1,6 @@
-s=$((1+RANDOM%6))
+
+s=$((RANDOM%100))
+sum=$((sum+RANDOM))
 echo $s
+echo $sum
+
