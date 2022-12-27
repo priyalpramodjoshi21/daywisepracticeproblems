@@ -14,3 +14,11 @@ echo $sum
 i1=$((sum/2))
 echo $avg
 
+
+
+
+
+
+
+
+>>>>>>> Day5
